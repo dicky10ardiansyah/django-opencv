@@ -25,7 +25,7 @@ SECRET_KEY = 'n&j&b_vf-f&+m2!88a+y%e6uf$!1-d$&$9norcu@i)ru-smx*&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['livevideostreaming.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 # Application definition
